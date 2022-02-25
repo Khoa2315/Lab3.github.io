@@ -1,0 +1,13 @@
+tr{
+    text-align: center;
+}
+.paint{
+    background-color: cadetblue;
+}
+.color{
+    background-color: grey;
+}
+table{
+    width: 50%;
+    margin: auto;
+}
